@@ -19,7 +19,6 @@ The primary architecture is built manually via the AWS Console to deeply underst
 
 ## 🏗️ Architecture
 
-```text
 Phone or Computer
         │
         ▼
@@ -40,7 +39,7 @@ Phone or Computer
         ▼
   Search Later (Web UI)
 
-```
+
 
 ---
 
