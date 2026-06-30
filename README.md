@@ -1,4 +1,3 @@
-```markdown
 # Cloud Second Brain
 
 An event-driven, serverless cloud application built on AWS that automatically ingests, analyzes, and organizes uploaded files (images, documents, screenshots) into a searchable personal knowledge base.
